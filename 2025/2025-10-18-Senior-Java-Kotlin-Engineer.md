@@ -3,8 +3,6 @@
 - **Employees can work remotely**
 - **Full-time**
 
----
-
 ### Company Description
 
 Are you ready to build high-performance, scalable, and reliable distributed systems that serve millions of users worldwide? Sigma Software is looking for a Senior Java/Kotlin Developer to join our remote team and work on an innovative platform for a leading company in the pet products marketplace.
@@ -13,8 +11,6 @@ This is your chance to contribute to a cutting-edge e-commerce solution, leverag
 
 #### Why Join Us:
 You’ll be part of a global team, working on impactful projects with advanced tech stacks, while enjoying the flexibility of remote work and opportunities for professional growth.
-
----
 
 ### CUSTOMER
 
@@ -33,8 +29,6 @@ You will join a team developing an innovative customer-focused platform designed
 - SQL
 - NoSQL
 
----
-
 ### Job Description
 
 - Design, develop, and implement large-scale distributed systems ensuring scalability, low latency, and fault tolerance
@@ -43,8 +37,6 @@ You will join a team developing an innovative customer-focused platform designed
 - Deliver both code and data fixes
 - Create and execute unit, API, regression, and performance tests
 - Collaborate with cross-functional teams to resolve production incidents quickly
-
----
 
 ### Qualifications
 
@@ -65,8 +57,6 @@ You will join a team developing an innovative customer-focused platform designed
 - Container orchestration with Kubernetes
 - Domain knowledge in e-commerce or pet products
 - Experience with AWS Lambda or DynamoDB
-
----
 
 ### Additional Information
 
